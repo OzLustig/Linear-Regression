@@ -64,19 +64,3 @@ For every 100 iterations check the current error and compare it to the error you
        Think: what does the sign of the weights mean? Do the results make sense?
     f. In the file you created, add an explanation of how you decided to stop iterating and
        also how you chose your alpha.
-
-You should hand in a LinearRegression.java, MainHW1.java and hw1.txt files which the grader
-will use to test your implementation. All of these files should be placed in a
-hw_1_##id1##_##id2##.zip folder with the id of both of the members of the group.
-
-EXAMPLE hw1.txt file:
-
-## The weights are: <weights>
-
-## The error is <error>
-
-## My explanation of how I chose alpha and what my stopping condition is.
-
-*** Submitting in groups on Moodle does not work. Please only submit one zip folder per pair
-
-
